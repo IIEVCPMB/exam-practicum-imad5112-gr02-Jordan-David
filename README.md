@@ -19,3 +19,5 @@
 - Built dynamically using a **FOR loop** through the parallel arrays
 - **Back to Base** button takes you back to the main screen
 - <img width="582" height="1002" alt="Screenshot 2026-06-10 110000" src="https://github.com/user-attachments/assets/0e71df59-458a-4103-a305-f9bc0eccac22" />
+<img width="571" height="987" alt="Screenshot 2026-06-10 110035" src="https://github.com/user-attachments/assets/65aab05c-5cd1-47ff-99f3-697b9f849455" />
+<img width="563" height="990" alt="Screenshot 2026-06-10 110104" src="https://github.com/user-attachments/assets/e308eb3b-2a60-4734-828b-dbb21b2dcd4b" />
