@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base nature-themed dark theme -->
+    <style name="Base.Theme.ExamImad" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Primary brand colors - deep forest greens -->
+        <item name="colorPrimary">@color/primaryGreen</item>
+        <item name="colorPrimaryVariant">@color/primaryDarkGreen</item>
+        <item name="colorOnPrimary">@color/whiteText</item>
+        <!-- Secondary brand colors -->
+        <item name="colorSecondary">@color/secondaryGreen</item>
+        <item name="colorSecondaryVariant">@color/accentGreen</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Background and surface -->
+        <item name="android:colorBackground">@color/darkBackground</item>
+        <item name="colorSurface">@color/darkSurface</item>
+        <item name="colorOnBackground">@color/lightText</item>
+        <item name="colorOnSurface">@color/lightText</item>
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/darkBackground</item>
+        <item name="android:navigationBarColor">@color/darkBackground</item>
+    </style>
+
+    <style name="Theme.ExamImad" parent="Base.Theme.ExamImad" />
+</resources>
