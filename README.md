@@ -18,3 +18,4 @@
 - Each card shows: **item number**, **name**, **category**, and **extra details**
 - Built dynamically using a **FOR loop** through the parallel arrays
 - **Back to Base** button takes you back to the main screen
+- <img width="582" height="1002" alt="Screenshot 2026-06-10 110000" src="https://github.com/user-attachments/assets/0e71df59-458a-4103-a305-f9bc0eccac22" />
